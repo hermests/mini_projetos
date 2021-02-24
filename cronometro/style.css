@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    color: black;
+}
+
+.container {
+    text-align: center;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.botao2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+button {
+    background: lightsteelblue;
+    font-size: 25px;
+    padding: 10px 40px;
+    cursor: pointer;
+    border: 0;
+    color: white;
+    border-radius: 10px;
+}
+
+.botao2 button {
+    background: lightsteelblue;
+    font-size: 15px;
+    padding: 10px 40px;
+    cursor: pointer;
+    border: 0;
+    color: white;
+    border-radius: 10px;
+}
